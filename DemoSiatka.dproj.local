@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>1899-12-30 00:00:00.000.799,=C:\Users\zdzichs\Documents\Embarcadero\Studio\Projects\Unit3.pas</Transaction>
+    <Transaction>1899-12-30 00:00:00.000.236,C:\Users\tomasz\Documents\Embarcadero\Studio\Projects\Demo siatka 2\DemoSiatka.dproj=C:\Users\tomasz\Downloads\siatka\DemoSiatka.dproj</Transaction>
+    <Transaction>1899-12-30 00:00:00.000.728,D:\zsdir\zsdane\programs\DelphiSydney\akademia\kod\siatka\Unit3.pas=</Transaction>
+    <Transaction>1899-12-30 00:00:00.000.278,C:\Users\zdzichs\Documents\Embarcadero\Studio\Projects\Unit3.pas=D:\zsdir\zsdane\programs\DelphiSydney\akademia\kod\siatka\Unit3.pas</Transaction>
+    <Transaction>1899-12-30 00:00:00.000.791,C:\Users\zdzichs\Documents\Embarcadero\Studio\Projects\Project3.dproj=D:\zsdir\zsdane\programs\DelphiSydney\akademia\kod\siatka\DemoSiatka.dproj</Transaction>
+    <Transaction>1899-12-30 00:00:00.000.278,C:\Users\zdzichs\Documents\Embarcadero\Studio\Projects\Unit3.dfm=D:\zsdir\zsdane\programs\DelphiSydney\akademia\kod\siatka\Unit3.dfm</Transaction>
+    <Transaction>1899-12-30 00:00:00.000.197,=D:\zsdir\zsdane\programs\DelphiSydney\akademia\kod\siatka\Unit1.pas</Transaction>
+    <Transaction>2021-12-09 12:29:30.091,C:\Users\tomasz\Documents\Embarcadero\Studio\Projects\Siatka\DemoSiatka.dproj=C:\Users\tomasz\Documents\Embarcadero\Studio\Projects\Demo siatka 2\DemoSiatka.dproj</Transaction>
+  </Transactions>
+</BorlandProject>
